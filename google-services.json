@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "952831747138",
+    "firebase_url": "https://bonus-rn-default-rtdb.firebaseio.com",
+    "project_id": "bonus-rn",
+    "storage_bucket": "bonus-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952831747138:android:7910f79218f5dbecd9b9db",
+        "android_client_info": {
+          "package_name": "com.alexhruzd.bonusfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952831747138-idp4stqa18r6k8l0iqfs86e45f5cfl4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGeJsDmZqUse4TOu2MUksPYke6BqoZLk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952831747138-idp4stqa18r6k8l0iqfs86e45f5cfl4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
